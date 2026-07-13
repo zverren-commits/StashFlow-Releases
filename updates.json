@@ -1,0 +1,17 @@
+{
+  "latest": "1.14.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zverren-commits/StashFlow-Releases/main/StashFlow.zip",
+  "versions": [
+    {
+      "version": "1.14.0",
+      "date": "2026-07-13",
+      "changes": [
+        "Added auto-update system",
+        "Added category reordering by dragging folders in the dropdown",
+        "Added card reordering by dragging templates in the gallery grid",
+        "Added permanent version label in the bottom bar with pulsing update warnings",
+        "Fixed list view scaling and preview rendering bugs"
+      ]
+    }
+  ]
+}
