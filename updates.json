@@ -1,9 +1,9 @@
 {
-  "latest": "1.16.0",
+  "latest": "1.17.0",
   "downloadUrl": "https://raw.githubusercontent.com/zverren-commits/StashFlow-Releases/main/StashFlow.zip",
   "versions": [
     {
-      "version": "1.16.0",
+      "version": "1.17.0",
       "date": "2026-07-18",
       "changes": [
         "Added 'All' folder in categories with a visual stack icon to show all compositions at once",
