@@ -9,7 +9,8 @@
         "Added 'All' folder in categories with a visual stack icon to show all compositions at once",
         "Added visual folder icons to categories in the dropdown list",
         "Fixed file writing permission warnings on Windows inside Program Files",
-        "Improved category dropdown layout and alignment"
+        "Improved category dropdown layout and alignment",
+        "Fixed text layout overlapping and scaling in list view at small card sizes"
       ]
     },
     {
