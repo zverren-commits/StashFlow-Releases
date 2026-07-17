@@ -1,1 +1,23 @@
-{"latest":"1.15.0","downloadUrl":"https://raw.githubusercontent.com/zverren-commits/StashFlow-Releases/main/StashFlow.zip","versions":[{"version":"1.15.0","date":"2026-07-13","changes":["Тестове оновлення до версії 1.15.0"]},{"version":"1.14.0","date":"2026-07-13","changes":["Added auto-update system","Added category reordering by dragging folders in the dropdown","Added card reordering by dragging templates in the gallery grid","Added permanent version label in the bottom bar with pulsing update warnings","Fixed list view scaling and preview rendering bugs"]}]}
+{
+  "latest": "1.16.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zverren-commits/StashFlow-Releases/main/StashFlow.zip",
+  "versions": [
+    {
+      "version": "1.16.0",
+      "date": "2026-07-18",
+      "changes": [
+        "Added 'All' folder in categories with a visual stack icon to show all compositions at once",
+        "Added visual folder icons to categories in the dropdown list",
+        "Fixed file writing permission warnings on Windows inside Program Files",
+        "Improved category dropdown layout and alignment"
+      ]
+    },
+    {
+      "version": "1.15.0",
+      "date": "2026-07-13",
+      "changes": [
+        "test"
+      ]
+    }
+  ]
+}
